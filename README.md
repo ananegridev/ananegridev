@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hello User :raising_hand:
+
+:mag_right:  My name is Ana Paula, 24 years old and I live in the state of São Paulo/Brazil
+
+:mortar_board:  Graduated in Analysis and Systems Development from the institution IFSP/ SP
+
+:computer: I work to the technology sector and specialize as a Front-End Developer.
 
 <!--
-**ananegridev/ananegridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anywtf/Anywtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
