@@ -10,7 +10,7 @@
 
 🔭 I'm currently working with Salesforce at JFOX IT PATNERS
 
-📫 How to reach me [Linkedin](https://www.linkedin.com/in/apnmacedo/) our [Instagram](https://www.instagram.com/anywtf/)
+📫 How to reach me [Linkedin](https://www.linkedin.com/in/apnmacedo/)
 
 
 <!--
