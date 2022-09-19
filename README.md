@@ -8,7 +8,7 @@
 
 :computer: I work to the technology sector and specialize as a Front-End Developer.
 
-🔭 I'm currently working with Salesforce at JFOX IT PATNERS
+🔭 I'm currently working with Salesforce at Minsait
 
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/apnmacedo/)
 
