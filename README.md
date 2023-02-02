@@ -4,7 +4,9 @@
 
 :mortar_board:  Graduated in Analysis and Systems Development from the institution IFSP/ SP
 
-:mortar_board:  I'm Specializing in Full Stack Web Development
+:mortar_board:  Specialization in Full Stack Web Development
+
+:mortar_board:  Salesforce Certified Javascript Developer
 
 :computer: I work to the technology sector and specialize as a Front-End Developer.
 
