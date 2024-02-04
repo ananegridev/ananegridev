@@ -1,6 +1,6 @@
 # Hello User :raising_hand:
 
-:mag_right:  My name is Ana Paula, 26 years old and I live in the state of São Paulo/Brazil
+:mag_right:  My name is Ana Paula, 27 years old and I live in the state of São Paulo/Brazil
 
 :mortar_board:  Graduated in Analysis and Systems Development from the institution IFSP/ SP
 
@@ -10,7 +10,7 @@
 
 :computer: I work to the technology sector and specialize as a Front-End Developer.
 
-🔭 I'm currently working with Salesforce at Minsait
+🔭 I'm currently working with Salesforce at JFOX
 
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/apnmacedo/)
 
